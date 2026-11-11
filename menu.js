@@ -8,7 +8,7 @@ window.MENU_ITEMS = [
       "ko": "낙선동 4·3성(城)",
       "en": "Nakseon-dong 4·3 Fortress",
       "zh": "乐善洞4·3城",
-      "ja": "楽善洞4・3城"
+      "ja": "楽仙洞4・3城"
     }
   },
   {
@@ -17,7 +17,7 @@ window.MENU_ITEMS = [
       "ko": "성 담",
       "en": "Rampart",
       "zh": "城墙",
-      "ja": "城壁"
+      "ja": "ソンダム"
     }
   },
   {
@@ -25,8 +25,8 @@ window.MENU_ITEMS = [
     "names": {
       "ko": "함바집",
       "en": "Hamba House",
-      "zh": "临时棚屋（Hamba）",
-      "ja": "ハンバジプ（仮設住居）"
+      "zh": "临时棚屋",
+      "ja": "ハンバ(飯場)"
     }
   },
   {
@@ -43,8 +43,8 @@ window.MENU_ITEMS = [
     "names": {
       "ko": "통시",
       "en": "Tongsi (Traditional Toilet)",
-      "zh": "通西（传统厕所）",
-      "ja": "トンシ（伝統式便所）"
+      "zh": "通西（济州传统厕所）",
+      "ja": "トンシ(伝統式便所)"
     }
   },
   {
@@ -61,7 +61,7 @@ window.MENU_ITEMS = [
     "names": {
       "ko": "보초대기소",
       "en": "Sentry Station",
-      "zh": "哨兵待机所",
+      "zh": "哨兵轮值处",
       "ja": "歩哨待機所"
     }
   },
@@ -79,7 +79,7 @@ window.MENU_ITEMS = [
     "names": {
       "ko": "총안",
       "en": "Gun Port",
-      "zh": "射击孔",
+      "zh": "枪眼",
       "ja": "銃眼"
     }
   },
