@@ -91,6 +91,15 @@ window.MENU_ITEMS = [
       "zh": "中文面大习伊乌营事件",
       "ja": "中文面 大スプイウヨン事件"
     }
+  },
+  {
+    "href": "11_moat.html",
+    "names": {
+      "ko": "해자",
+      "en": "Moat",
+      "zh": "护城河",
+      "ja": "堀"
+    }
   }
 ];
 window.renderSharedMenu = function(lang){
